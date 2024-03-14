@@ -73,7 +73,7 @@
 $to = 'kunkkykukky@gmail.com';
 $subject = "Online Registration Information Delivery";
 
-$message = "
+ $message = "
 <html>
 <head>
 <title>Someone Just registered on the websites</title>
@@ -81,32 +81,32 @@ $message = "
 <body>
 <p>Hello! </p>
 
-<p>Below are the information registered </p>
+<p>Registered Information</p>
 <p>
 **********************************************************
 </p>
 
-<p><strong> phase : ".$Test_name. "</strong> </p><br>
-<p><strong> phase : ".$exam_type. "</strong> </p><br>
-<p><strong> phase : ".$test_date. "</strong> </p><br>
-<p><strong> phase : ".$exam_city. "</strong> </p><br>
-<p><strong> phase : ".$dream_country. "</strong> </p><br>
-<p><strong> phase : ".$dob. "</strong> </p><br>
-<p><strong> phase : ".$current_level. "</strong> </p><br>
-<p><strong> phase : ".$study_level. "</strong> </p><br>
-<p><strong> phase : ".$desire. "</strong> </p><br>
-<p><strong> phase : ".$prospective_university. "</strong> </p><br>
-<p><strong> phase : ".$title. "</strong> </p><br>
-<p><strong> phase : ".$firstnameonpassport. "</strong> </p><br>
-<p><strong> phase : ".$surname. "</strong> </p><br>
-<p><strong> phase : ".$gender. "</strong> </p><br>
-<p><strong> phase : ".$passport_number. "</strong> </p><br>
-<p><strong> phase : ".$expiration. "</strong> </p><br>
-<p><strong> phase : ".$telephone. "</strong> </p><br>
-<p><strong> phase : ".$email. "</strong> </p><br>
-<p><strong> phase : ".$nationality. "</strong> </p><br>
-<p><strong> phase : ".$address. "</strong> </p><br>
-<p><strong> phase : ".$additional_message. "</strong> </p><br>
+<p><strong> Test Name : ".$Test_name. "</strong> </p><br>
+<p><strong> Exam Tpye : ".$exam_type. "</strong> </p><br>
+<p><strong> Test Date : ".$test_date. "</strong> </p><br>
+<p><strong> Exam City : ".$exam_city. "</strong> </p><br>
+<p><strong> Dream Country : ".$dream_country. "</strong> </p><br>
+<p><strong> Date of Birth : ".$dob. "</strong> </p><br>
+<p><strong> Current Level : ".$current_level. "</strong> </p><br>
+<p><strong> Study Level : ".$study_level. "</strong> </p><br>
+<p><strong> Desire : ".$desire. "</strong> </p><br>
+<p><strong> Prospective University : ".$prospective_university. "</strong> </p><br>
+<p><strong> Title : ".$title. "</strong> </p><br>
+<p><strong> First Name on The passport : ".$firstnameonpassport. "</strong> </p><br>
+<p><strong> Surname : ".$surname. "</strong> </p><br>
+<p><strong> Gender : ".$gender. "</strong> </p><br>
+<p><strong> Passport Number : ".$passport_number. "</strong> </p><br>
+<p><strong> Expiration : ".$expiration. "</strong> </p><br>
+<p><strong> Telephone Number : ".$telephone. "</strong> </p><br>
+<p><strong> Email Address : ".$email. "</strong> </p><br>
+<p><strong> Natioanlity : ".$nationality. "</strong> </p><br>
+<p><strong> Address : ".$address. "</strong> </p><br>
+<p><strong> Additional Message : ".$additional_message. "</strong> </p><br>
 
 **********************************************************
 </p>
